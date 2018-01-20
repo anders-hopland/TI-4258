@@ -30,3 +30,12 @@ Notater for TIØ4258(Teknologiledelse) på NTNU
   * Diffusjon handler om spredning av produktet
 * Den teknologiske adopsjons-livssykluskurven er delt opp i 5 deler
 ![alt adopsjonskurve](http://i1.wp.com/joshuafischer.com/wp-content/uploads/2016/02/TechnologyAdoptionLifecycle.jpg)
+  * Innovatører er teknologientusiaster som er opptatt av å få tak i det aller nyeste og kuleste. Dette er det letteste markedet å nå
+  * Tidlige brukere: Mer kritiske enn innovatærene men blir fortsatt lokket av ny og spennende teknologi. Første grupen med god råd som adopterer produktet
+  * Tidlig majoritet: Opptatt av produkter som fungerer, og venter derfor til amnge andre har kjøpt samme produkt. Kjøper ofte fra markedslederen
+  * Sen majoritet: Pessimistiske mot fordeler av den nye teknologien, men vil samtidig ikke føle seg forbigått. Er en stor gruppe, og er prissensitiv. De har ikke så store krav som gruppene nevnt over
+  * Etternølerne: Er ofte sterkt bundet av tradisjoner og tvilsomme til ny teknologi. Er en liten gruppe kunder som er vanskelig å nå, og blir dermed ikke så viktige for bedriften
+* Diffusjonskanaler (Kanaler for spredning)
+  * Selve innovasjonen
+  * Kommunikasjonskanalen
+  * Tidsaspektet
